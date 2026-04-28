@@ -66,9 +66,5 @@ def main():
     print(bank["recall"]("nothing"))
 
 
-
-
-
-
 if __name__ == "__main__":
     main()
